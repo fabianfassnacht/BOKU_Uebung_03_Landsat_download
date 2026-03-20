@@ -31,7 +31,7 @@ Es ist **sehr wichtig zu wissen welche Bänder welchen Wellenlängenbereichen en
  
 ### 3.3 Download von Landsat-Satellitendaten via EarthExplorer
 
-Die Downloadseite für Landsat-Satellitebilder findet sich under dem Link: 
+Die Downloadseite für Landsat-Satellitebilder findet sich unter dem Link: 
 
 https://earthexplorer.usgs.gov/
 
