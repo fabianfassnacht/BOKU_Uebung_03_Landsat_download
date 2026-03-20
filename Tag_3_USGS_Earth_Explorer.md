@@ -77,7 +77,7 @@ In den kleinen Previews links kann man bereits erkennen, dass nicht alle Szenen 
 
 Die **"Path and Row"** Information kann sehr hilfreich sein, wenn man z.B. eine Veränderungsanalyse mit Landsatdaten durchführen möchte. Konkret steht **"Path"** für den jeweiligen Orbit auf dem das Sallitenbild aufgenommen wurde und **"Row"** steht für eine eine durch das USGS definierte Unterteilung der kontinuerlich aufgenommenen Orbite in Ost-West-Richtung um die jeweiligen Satellitenbilder in einer Standart-Kachelgröße bereitzustellen. Im Prinzip nimmt der Satellite durchgehend lange Bildstreifen auf, die dann danach in "row-Richtung" abgeschnitten werden, um kleinere Datenhäppchen bereitstellen zu können. Die Path and Row Werte sind für alle Landsat-Sensoren nahezu identisch und können auch verwendet werden, um nach Satellitenbildern zu suchen, die jeweils im selben Orbit und in der selben row aufgenommen wurden (aber zu unterschiedlichen Zeitpunkten). Dafür gibt es in der Suchmaske auch eine Funktion. Als zusätzliche Veranschaulichung der System zeigt Abbildung 8 die jeweiligen Path und Row Kombinationen, die den Bundesstaat Texas abdecken
 
-![Abbildung 8: Das Path und Row System für Texas](Fig_08.png)
+![Abbildung 8: Das Path und Row System für Texas](Fig_08.jpg)
 
 **Abbildung 8: Das Path und Row System für Texas** (Bildquelle: https://www.researchgate.net/publication/323838161/figure/fig2/AS:614403611320320@1523496644037/Landsat-World-Reference-System-2-WRS-2-path-and-row-overlay-for-Texas-in-relation-to.png)
 
