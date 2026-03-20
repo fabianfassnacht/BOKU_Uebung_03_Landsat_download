@@ -22,6 +22,8 @@ Die vom United States Geological Survey (USGS) betriebene Website Earth Explorer
 
 Dabei haben sich die technischen Spezifikationen des Sensors kontinuerlich verbessert - es wurde aber gleichzeitig auch auf eine möglichst gute Kontinuität der Zeitserien geachtet. Ab dem Jahr 1984 mit dem Start von Landsat 4 wurden Daten mit einer räumlichen Auflösung (Pixelgröße) von 30 m und 6 Spektralkanälen im visuellen und Infrarotbereich (blaues, grünes, rotes Licht, nahres Infrarot, kurwelliges Infrarot 1 und kurzwelliges Infrarot 2; auf englisch: blue, green, red, near infrared (NIR), shortwave infrared 1 (SWIR1), shortwave infrared 2 (SWIR2)) gesammelt (Abbildung 2). Dazu kamen ab Landsat 4 auch noch 1 bzw. später 2 Spektralkanäle im thermalen Infrarot.
 
+Es ist **sehr wichtig zu wissen welche Bänder welchen Wellenlängenbereichen entsprechen** (siehe Abbildung 2). Bitte unbedingt auch darauf achten, dass sich die Namen der Bänder zum Teil zwischen den Landsat-Sensoren unterscheiden.
+
  ![Abbildung 2: Übersicht über die Spektralkanäle der Landsat-Satelliten - Bildquelle: Offizielle Webseite des USGS](Fig_02.png)
 
 **Abbildung 2: Übersicht über die Spektralkanäle der Landsat-Satelliten - Bildquelle: Offizielle Webseite des USGS**
