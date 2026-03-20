@@ -8,7 +8,9 @@ Fernerkundung in der Landschaftsplanung - Tag 3 - Download von Landsat Daten via
 ### 3.1 Lernziele
 
 • Kennenlernen des USGS Earth Explorers
+
 • Erlangung der Fähigkeit Landsat-Daten zu finden und herunterzuladen
+
 • Verständnis für das Landsat-eigene Path und Row-System entwickeln
 
 ### 3.2 Die Landsat-Satelliten
