@@ -103,7 +103,9 @@ Das waren die Inhalte des Tutorials zum Download von Landsat-Daten.
 Wenn Sie dieses Tutorial durchgearbeitet haben, haben Sie
 
 ✓ das USGS Earth Explorer Portal kennengelernt,
+
 ✓ sich damit beschäftigt, wie Sie Landsatdaten vom USGS Earth Explorer Portal herunterladen können
+
 ✓ das Path und Row System von Landsat kennengelernt
 
 
