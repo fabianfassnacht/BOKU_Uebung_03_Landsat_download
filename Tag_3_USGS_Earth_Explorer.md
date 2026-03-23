@@ -61,7 +61,7 @@ Wenn wir etwas herauszoomen, können wir das Polygon (Abbildung 5) gut erkennen 
 
 Nun sind wir bereit, die von uns präfierierten Sensoren auszuwählen. Hierfür klicken wir auf "Data Sets >>" (markiert mit 3 in Abbildung 5).
 
-In dem neu erscheinenden Menü können wir nun zuerst **"Landsat"** auswählen (markiert mit 1 in Abbildung 6) und danach **"Landsat Collection 2 Level 2"** (markiert mit 2 in Abbildung 6) und schließlich setzen wir ein Häkchen bei **"Landsat 8-9 OLI/TIRS C2L2"** um nur nach Daten von den zwei neusten Landsat-Satelliten zu suchen (markiert mit 3 in Abbildung 5). Wir bestätigen in dem wir auf **"Results >>"** klicken.
+In dem neu erscheinenden Menü können wir nun zuerst **"Landsat"** auswählen (markiert mit 1 in Abbildung 6) und danach **"Landsat Collection 2 Level 2"** (markiert mit 2 in Abbildung 6) und schließlich setzen wir ein Häkchen bei **"Landsat 8-9 OLI/TIRS C2L2"** um nur nach Daten von den zwei neusten Landsat-Satelliten zu suchen. Wir bestätigen in dem wir auf **"Results >>"** klicken.
 
 ![Abbildung 6: Auswahl der Datenprodukte](Fig_06.png)
 
